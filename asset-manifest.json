@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Hero-app/static/css/main.0febfc2c.css",
+    "main.js": "/Hero-app/static/js/main.b470725c.js",
+    "static/media/dc-wonder.jpg": "/Hero-app/static/media/dc-wonder.7419e84a17ac5ee8dd51.jpg",
+    "static/media/dc-superman.jpg": "/Hero-app/static/media/dc-superman.f57a075ec9d03e3c73fa.jpg",
+    "static/media/dc-flash.jpg": "/Hero-app/static/media/dc-flash.602ef4e2f4bc19aafc88.jpg",
+    "static/media/marvel-hulk.jpg": "/Hero-app/static/media/marvel-hulk.f4aa146cc9943db5934b.jpg",
+    "static/media/dc-martian.jpg": "/Hero-app/static/media/dc-martian.325a56933f9cd7cadf0e.jpg",
+    "static/media/dc-green.jpg": "/Hero-app/static/media/dc-green.9cf1d7e138341c1bb663.jpg",
+    "static/media/dc-black.jpg": "/Hero-app/static/media/dc-black.6188260a22ad39e9f7b9.jpg",
+    "static/media/marvel-daredevil.jpg": "/Hero-app/static/media/marvel-daredevil.b783c6d58a54f16f3a70.jpg",
+    "static/media/marvel-captain.jpg": "/Hero-app/static/media/marvel-captain.ee9ab36ffcbb558cf661.jpg",
+    "static/media/marvel-silver.jpg": "/Hero-app/static/media/marvel-silver.b16676feeeea56f89e4b.jpg",
+    "static/media/dc-arrow.jpg": "/Hero-app/static/media/dc-arrow.53beb44893ed4f6ad120.jpg",
+    "static/media/marvel-wolverine.jpg": "/Hero-app/static/media/marvel-wolverine.4ff301c1564b4d129b2e.jpg",
+    "static/media/marvel-cyclops.jpg": "/Hero-app/static/media/marvel-cyclops.d24a2309116f9f316239.jpg",
+    "static/media/marvel-spider.jpg": "/Hero-app/static/media/marvel-spider.f0a8b217c7a2c51e51d8.jpg",
+    "static/media/dc-blue.jpg": "/Hero-app/static/media/dc-blue.38f37178c3ad6ac4e75a.jpg",
+    "static/media/dc-batman.jpg": "/Hero-app/static/media/dc-batman.5d505a5b82edce9e7b85.jpg",
+    "static/media/dc-robin.jpg": "/Hero-app/static/media/dc-robin.76994bb2e83a40578e35.jpg",
+    "static/media/marvel-iron.jpg": "/Hero-app/static/media/marvel-iron.2af9562a6426f0738974.jpg",
+    "static/media/marvel-thor.jpg": "/Hero-app/static/media/marvel-thor.467240a791140e46f7f0.jpg",
+    "static/media/marvel-hawkeye.jpg": "/Hero-app/static/media/marvel-hawkeye.3f65c9f2a10784999de7.jpg",
+    "index.html": "/Hero-app/index.html",
+    "main.0febfc2c.css.map": "/Hero-app/static/css/main.0febfc2c.css.map",
+    "main.b470725c.js.map": "/Hero-app/static/js/main.b470725c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0febfc2c.css",
+    "static/js/main.b470725c.js"
+  ]
+}
